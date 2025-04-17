@@ -1,12 +1,11 @@
 # 概要
-多機能ながら拡張性の高いBF4向けの外部チート。  
+多機能ながら拡張性の高いフレームワークを使用を基に書かれたシンプルなBF4向けの外部チート。  
+
+![IMG](BF4_01.png)
+![IMG](BF4_02.png)
 
 ## 機能
-* ESP (Soldier/Vehicle)
-* ImGui Overlay
-* ImGui Load Font/Icon
-* PatternScan
-* ConfigSystem
+ESP (Soldier/Vehicle)
 
 ## 実行
 必要なライブラリは全て揃っているので、VisualStudioでビルドすれば普通に動くはずです。  
@@ -17,7 +16,7 @@ https://learn.microsoft.com/ja-jp/cpp/build/vscpp-step-0-installation?view=msvc-
 https://github.com/microsoft/DirectXTK  
 * ocornut - ImGui  
 https://github.com/ocornut/imgui
-* nlohmann - json
+* nlohmann - json  
 https://github.com/nlohmann/json
 
 ## 免責事項
